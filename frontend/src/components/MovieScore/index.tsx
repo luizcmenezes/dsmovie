@@ -3,8 +3,8 @@ import './styles.css';
 
 function MovieScore() {
     
-    const score = 4.0;
-    const count = 20;
+    const score = 4.5;
+    const count = 2;
     
     return (
         <div className="dsmovie-score-container">
